@@ -1,5 +1,5 @@
 
-
+//please check my code
 
 package all_TestCases;
 
@@ -15,7 +15,7 @@ import pageObjectRepository.LoginPageFactory;
 
 public class LoginPageTestCases extends Base{
 	
-	// Author Name Pmpatel48
+	
 	
 	public WebDriver driver;
 	public LoginPageFactory lp;
